@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+	
+.webbody {
+	height: auto;
+	width: 1000px;
+	margin:0 auto;
+}
+.head {
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: -20px;
+	width:900px;
+	height:auto;
+}
+.navbar {
+	background-color: #3388ff;
+	height: 50px; 
+	width: 900px;
+	margin-top: -20px;
+	font-weight: bold;
+}
+
+.navword {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+.leadertable{
+	height: 50px;
+	width: 220px;
+	font-family:'微软雅黑'; 
+	font-size:16px; 
+	font-weight:bold;
+	background-color:#61a3ff;
+}
+.leaderdiv{
+    background-color:#FFF;
+	width: 220px;
+	height: 500px;
+}
+.leaderphoto{
+	width:110px;
+	height:130px;
+	text-align:center;
+	vertical-align:middle;
+    
+}
+.leaderintroductionword{
+	text-align: left;
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight: normal;
+	
+}
+.indexmiendispaly{
+	float: right;
+	background-color: #FFF;
+	height: 300px;
+	width: 670px;
+	margin-top: -500px;
+	display:inline;
+	
+}
+.indexpaper{
+	height: 200px;
+	width: 470px;
+	margin-top: -190px;
+	margin-left: 230px;
+	background-color: #FFF;
+}
+
+.commonbtable{
+	height: 50px;
+	width: 220px;
+	text-align: center;
+	background-color: #61a3ff;
+	text-align:center;
+}
+.commonsword {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	height: 35px;
+	width: 220px;
+	text-align: center;
+	
+}
+.steamdiv{
+	width: 220px;
+	height: 260px;
+	background-color: #7cb3ff;
+}
+.currentplace{
+	float: right;
+	height: 40px;
+	background-color: #61a3ff;
+	margin-top: -260px;
+	width: 670px;
+	
+}
+.currentptable{
+	height: 40px;
+}
+.condiv{
+	width: 670px;
+	background-color: #FFF;
+	height: auto;
+	float:right;
+	margin-top: -220px;
+}
+
+#footerwords {
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight: normal;
+}
+.footer{
+	width: 900px;
+	height: 85px;
+	background-color: #3388ff;
+	margin-top: 10px;
+
+	
+}
+.footsong{
+	font-family:"宋体";
+	font-size: 14px;
+	font-weight:normal;
+	text-decoration:none;
+	color:#000;}
+	
+.dellink{
+	
+	text-decoration:none;
+	color:#000;}
+.leaderrank{
+	font-family:"微软雅黑";
+	font-size:16px;
+	font-weight:bold;
+	width:110px;
+	text-align:center;}

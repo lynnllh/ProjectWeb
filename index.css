@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+.message{
+	font-family: "宋体";
+	font-size: 12px;
+	text-decoration: none;
+	color: #000;
+	font-weight:nomral;
+	}
+.friendlinkword{
+	font-family:"微软雅黑";
+	font-size:16px;
+	font-weight:bold;}
+	
+	
+.linkfriendlink{
+	margin-top: -200px;
+	background-color: #FFF;
+	height: 200px;
+	width: 190px;
+	margin-left: 710px;
+}
+#indexpaper{
+	height: 200px;
+	width: 470px;
+	margin-top: -10px;
+	background-color: #FFF;
+}
+.linkfriendlinkk{
+	margin-top: -200px;
+	background-color: #FFF;
+	height: 200px;
+	width: 190px;
+	margin-left: 480px;
+}
+
+#footer{
+	width: 900px;
+	height: 85px;
+	background-color: #3388ff;
+	margin-top: 10px;
+	margin-left:-230px;
+
+	
+}
