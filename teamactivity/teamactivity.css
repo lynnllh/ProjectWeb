@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#condiv{
+	width: 670px;
+	background-color: #FFF;
+	height: 460px;
+	float:right;
+	margin-top: -460px;
+}
+
+#currentplace{
+	float: right;
+	height: 40px;
+	background-color: #61a3ff;
+	margin-top: -500px;
+	width: 670px;
+	
+}
+#condivindex{
+	width: 670px;
+	background-color: #FFF;
+	height: auto;
+	float:right;
+	margin-top: -410px;
+}
