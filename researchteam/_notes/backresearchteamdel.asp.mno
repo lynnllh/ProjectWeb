@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:INTEGER,name:recordnum;datatype:INTEGER,name:conname;datatype:LONGCHAR,name:rank;datatype:LONGCHAR,name:picture;datatype:LONGCHAR,name:tel;datatype:LONGCHAR,name:address;datatype:LONGCHAR,name:workplace;datatype:LONGCHAR,name:wechat;datatype:LONGCHAR,name:qq;datatype:LONGCHAR,name:email;datatype:LONGCHAR,name:maritalstatus;datatype:LONGCHAR,name:studentnumber;datatype:LONGCHAR,name:researchdir;datatype:LONGCHAR,name:introduction;datatype:LONGCHAR,name:classify;datatype:INTEGER,name:毕业时间;datatype:DATETIME" />
+</info>
