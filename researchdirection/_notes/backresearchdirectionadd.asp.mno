@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:INTEGER,name:recordnum;datatype:LONGCHAR,name:dir;datatype:LONGCHAR,name:shortdir;datatype:LONGCHAR,name:longdir1;datatype:LONGCHAR,name:longdir2;datatype:LONGCHAR,name:longdir3;datatype:LONGCHAR,name:longdir4;datatype:LONGCHAR,name:longdir5;datatype:LONGCHAR,name:file1;datatype:LONGCHAR,name:file2;datatype:LONGCHAR,name:file3;datatype:LONGCHAR,name:file4;datatype:LONGCHAR,name:file5;datatype:LONGCHAR" />
+</info>

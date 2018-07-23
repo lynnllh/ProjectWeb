@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:INTEGER,name:title;datatype:LONGCHAR,name:moddate;datatype:DATETIME,name:content;datatype:LONGCHAR" />
+</info>
