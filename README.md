@@ -2,7 +2,9 @@
 基于Dreamweaver开发环境，搭建了课题组网站，实现了包括网页样式设计（CSS）、网页动态显示（图片轮播等）、后台操作管理系统、数据库管理。
 应用流程如下
 1.首先下载Dreamweaver CS6；下载与破解：http://jingyan.baidu.com/article/fcb5aff7ac492aedab4a7167.html
+
 2.搭建IIS服务环境以及建立Dreamweaver站点；http://www.jb51.net/article/29787.html；http://www.adobe.com/cn/devnet/dreamweaver/articles/setup_asp.html；其中搭建IIS服务器有几项注意点：a.物理路径建议不要更改,b.网站绑定建议默认，c.无需添加网站使用Default Web Site即可.d.如果出现问题先站点文件给everyone完全权限，然后C:\Windows\temp文件夹给USER完全权限。
+
 3.首先先在C:\inetpub\wwwroot\ProjectWebs\indeximages文件夹下替代ground.jpg（前台网页的背景，图片比例900:204）backsystem.jpg（后台网页的背景 图片比例900:204）schoolplace.png（学校地图 图片比例 665:300）教授.jpg（学术带头人照片 图片比例100:120）
 然后在C:\inetpub\wwwroot\ProjectWebs\images中替换s1.jpg-s4.jpg,sc1.jpg-sc4.jpg（主页轮显图片 图片比例663:291）
 4.打开C:\inetpub\wwwroot\ProjectWebs\index.asp，定位到141行到176行，张三教授替换为Boss的名字，机械电子系系主任，智能机器人所所长替换成Boss的职务，xxxxx......xxxxxx处替换Boss的个人简历（注意换行）
