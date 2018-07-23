@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:INTEGER,name:moddate;datatype:DATETIME,name:dir;datatype:LONGCHAR,name:conname;datatype:LONGCHAR,name:place;datatype:LONGCHAR,name:producer;datatype:LONGCHAR,name:classify;datatype:LONGCHAR" />
+	<infoitem key="UD_Recordset2" value="name:dir;datatype:LONGCHAR" />
+</info>
